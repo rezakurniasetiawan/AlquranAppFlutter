@@ -1,9 +1,16 @@
-# alquran_app
+# Al-Qur'an App
 
 Development By :<br>
 Nama : Reza Kurnia Setiawan <br>
 NIM : 19051397021 <br>
 Prodi : Manajemen Informatika 2019A <br>
+
+# Fitur Al-Quran App
+1. Al-quran Lengkap beserta terjemahan bahasa indonesia <br>
+2. 99 Asmaul Husna<br>
+3. Doa Sehari-hari<br>
+4. Jadwal Sholat Realtime => Update<br>
+5. Comunnty <br>
 
 ## Data Al-Quran menggunakan API & Local Json
 # List Surat
